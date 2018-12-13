@@ -1,5 +1,5 @@
 https://www.thesoftwareguy.in/how-to-generate-pdf-file-with-php/
-
+https://phppot.com/php/php-mysql-date-range-search-with-jquery-datepicker/
 <?php  $pfd_url = base_url().'salesorder/salesinvoicepdf'; ?>
     <button type="button" data-tooltip="PDF Download"  title="PDF Download" onclick="pdfdownload('<?php echo $pfd_url;?>')" data-original-title="PDF" class="btn btn-primary btn-xs waves-effect waves-light border-lt">
         <i class="icofont icofont-file-pdf"> </i>
